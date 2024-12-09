@@ -1,0 +1,312 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+section{
+    background-image: linear-gradient(rgba(17, 3, 3, 0.397),rgba(0, 0, 0, 0.445),rgba(0, 0, 0, 0.432)) ,url(https://preview.redd.it/how-can-someone-make-this-background-with-html-and-css-i-v0-zjgs096khv591.jpg?auto=webp&s=9659527da9196c27a8875200b41d20a8e901c341);
+height: 95vh;
+width: 100%;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.navbar{
+    
+    display: flex;
+    justify-content: left;
+    justify-content: center;
+    gap: 40%;
+flex-wrap: wrap;
+}
+.id{
+    margin-top: 20px;
+
+}
+.id select{
+    padding: 8px 15px;
+}
+.id a{
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    transition: 0.9s;
+    font-size: 20px;
+    padding: 5px 8px;
+    border-radius: 5%;
+}
+
+.ab a:hover{
+    background-color:rgba(255, 0, 0, 0.445);
+    color:white;
+}
+.c{
+    color: white;
+    font-size: 35px;
+        margin-top: 12%;
+        text-align: center; 
+}
+.c p{
+    font-size: 20px;
+}
+.wq{
+    background-color: black;
+    padding: 13px 33px;
+    color: white;
+    width: 40%;
+    margin-top: 1%;
+
+
+}
+.hau a{
+    text-decoration: none;
+    background-color: red;
+    font-size: 25px;
+    color: white;
+    
+    padding: 8px 10px;
+    border-radius: 5%;
+    transition: 0.9s;
+    
+}
+.hau a:hover{
+    background-color:rgba(255, 0, 0, 0.445);
+    color: white;
+}
+.pi{
+    background-image: linear-gradient(black,black,black);
+    text-align: left;
+    justify-content: center;
+    display: flex;
+    gap: 15%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    flex-wrap: wrap;
+    color: white;
+}
+.pi h1{
+    margin-top: 40px;
+    font-size: 50px;
+}
+.pi p{
+    font-size: 30px;
+}
+.pi img{
+    margin-top: 3%;
+    height: 300px;
+    width: 400px;
+}
+
+.cv{
+    border: 5px solid rgb(34, 34, 34);
+}
+.vc{
+    border: 5px solid rgb(34,34,34);
+}
+.s{
+    background-image: linear-gradient(black,black,black);
+    
+    justify-content: center;
+    display: flex;
+    gap: 5%;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    flex-wrap: wrap;
+    color: white;
+    
+}
+
+.s h1{
+    margin-top: 90px;
+    font-size: 50px;
+
+}
+.s p{
+    font-size: 25px;
+    
+}
+.vb{
+    border: 5px solid rgb(34, 34, 34);
+}
+.l{
+    background-image: linear-gradient(black,black,black);
+    text-align: left;
+    justify-content: center;
+    display: flex;
+    gap: 5%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    flex-wrap: wrap;
+    color: white;
+}
+.l h1{
+    margin-top: 15%;
+    font-size: 50px;
+}
+.l p{
+    font-size: 30px;
+}
+.l img{
+    margin-top: 3%;
+    height: 300px;
+    width: 400px;
+}
+.w{
+    border: 5px solid rgb(34, 34, 34);
+}
+.re{
+    border: 5px solid rgb(34, 34, 34);
+}
+.df{
+    background-image: linear-gradient(black,black,black);
+    padding-top: 70px;
+    padding-bottom: 70px;
+    font-size: 30px;
+    color: white;
+    
+}
+.abhi h1{
+    background-color: rgb(75,75,75);
+    width: 70%;
+    height: 70px;
+    text-align: left;
+    font-size: 23px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.abhi p{
+    background-color: rgb(44, 43, 43);
+    height: 80%;
+    width: 70%;   
+    font-size: 20px; 
+             
+}
+.df{
+    background-image: linear-gradient(black,black,black);
+
+
+}
+.jitu h1{
+    background-color: rgb(75,75,75);
+    width: 70%;
+    height: 70px;
+    text-align: left;
+    font-size: 23px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.jitu p{
+    background-color: rgb(44, 43, 43);
+    height: 80%;
+    width: 70%;   
+    font-size: 20px;          
+}
+.krish h1{
+    background-color: rgb(75,75,75);
+    width: 70%;
+    height: 70px;
+    text-align: left;
+    font-size: 23px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.krish p{
+    background-color: rgb(44, 43, 43);
+    height: 80%;
+    width: 70%;   
+    font-size: 20px;          
+}.dugu h1{
+    background-color: rgb(75,75,75);
+    width: 70%;
+    height: 70px;
+    text-align: left;
+    font-size: 23px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.dugu p{
+    background-color: rgb(44, 43, 43);
+    height: 80%;
+    width: 70%;   
+    font-size: 20px;          
+}.tarun h1{
+    background-color: rgb(75,75,75);
+    width: 70%;
+    height: 70px;
+    text-align: left;
+    font-size: 23px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.tarun p{
+    background-color: rgb(44, 43, 43);
+    height: 80%;
+    width: 70%;   
+    font-size: 20px;          
+}.abhay h1{
+    background-color: rgb(75,75,75);
+    width: 70%;
+    height: 70px;
+    text-align: left;
+    font-size: 23px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.abhay p{
+    background-color: rgb(44, 43, 43);
+    height: 80%;
+    width: 70%;   
+    font-size: 20px;          
+}
+.df h3 {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 5%;
+    
+}
+.j a{
+    text-decoration: none;
+    background-color: red;
+    font-size: 25px;
+    color: white;
+    
+    padding: 8px 10px;
+    border-radius: 5%;
+    transition: 0.9s;
+    
+}
+.ji{
+    background-color: black;
+    padding: 13px 33px;
+    color: white;
+    width: 40%;
+    margin-top: 1%;
+
+}
+.line{
+    border: 5px solid rgb(34, 34, 34);
+}
+.patidar{
+    background-image: linear-gradient(black,black,black);
+    padding: top 70%;
+    padding-bottom: 70%;
+    color: white;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    
+}
+.child{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 10%;
+}
+.child a{
+    color: white;
+}
+.ddb select{
+    margin-top: 20px;
+    padding: 8px 15px;
+    background-color: black;
+    color: white;
+    border-radius: 4%;
+
+}
+
+    
